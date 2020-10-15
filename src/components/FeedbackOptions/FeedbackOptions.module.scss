@@ -1,0 +1,23 @@
+
+.button-div{
+   margin: 0;
+   padding: 0;
+   display: flex;
+   justify-content: space-evenly;
+}
+
+
+.button{
+   width: 65px;
+   margin: 15px 0 10px;
+   padding: 5px 10px;
+   cursor: pointer;
+   border-radius: 5px;
+   outline: none;
+   border: none;
+}
+
+.button:hover{
+   background-color: #37269c;
+   color: #fff;
+}
